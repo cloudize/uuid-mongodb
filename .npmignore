@@ -17,8 +17,9 @@ coverage
 # Source Files
 src
 
-# Tests
-tests
+# Tests & Examples
+examples
+test
 
 # Webstorm Configs
 .idea
