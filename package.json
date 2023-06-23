@@ -1,6 +1,6 @@
 {
   "name": "@cloudize/uuid-mongodb",
-  "version": "23.2.3",
+  "version": "23.2.4",
   "description": "Generates and parses MongoDB BSON UUIDs. Plays nicely with others including the MongoDB native driver and Mongoose.",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
@@ -36,7 +36,7 @@
     "mongodb": "3.6.x || 3.7.x || 4.x || 5.x"
   },
   "devDependencies": {
-    "eslint": "8.42.0",
+    "eslint": "8.43.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "mocha": "^10.2.0",
