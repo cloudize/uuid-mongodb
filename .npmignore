@@ -23,3 +23,7 @@ test
 
 # Webstorm Configs
 .idea
+/examples
+/assets
+.vscode
+/test
